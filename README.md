@@ -1,2 +1,2 @@
 # Python-Projects
-Amazon Web Scraper and Crypto Website API Pull 
+Amazon Web Scraper and Automated Crypto Website API Pull 
